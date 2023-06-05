@@ -5,7 +5,7 @@
 
     <groupId>org.weixin4j.spring.boot</groupId>
     <artifactId>weixin4j-spring-boot-starter</artifactId>
-    <version>2.0.0</version>
+    <version>2.0.1</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.weixin4j</groupId>
             <artifactId>weixin4j</artifactId>
-            <version>0.1.5</version>
+            <version>0.1.6</version>
             <exclusions>
                 <exclusion>
                     <groupId>javax.servlet</groupId>
